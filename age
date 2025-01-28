@@ -7,7 +7,7 @@ if (age >= 18) {
         printf("Congratulations ! You are eligible to vote.\n");
 }
 else {
-printf("You are not eligible to vote. You need to be at least 18 years old.\n");
+printf("You are not eligible to vote.\n");
 }
 return 0;
 }
